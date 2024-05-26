@@ -6,6 +6,7 @@ const CONFIG = {
     role: "Editor & Researcher",
     bio: "Keen about all things natural",
     email: "the108matrix@gmail.com",
+    linkedin: "",
     github: "the108matrix",
     instagram: "",
   },
